@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Циклы. Часть 1");
+        System.out.println("ДЗ. Циклы. Часть 1");
 
 
         // Задача 1
